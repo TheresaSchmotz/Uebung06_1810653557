@@ -12,7 +12,7 @@ public class Aufgabe2 {
 
         Random random = new Random();
 
-        for(int i = 0; i < size; i++)
+        for(int i = 0; i < arraylaenge; i++)
         {
             Random random1 = new Random();
 
